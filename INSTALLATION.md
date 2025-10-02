@@ -17,7 +17,7 @@ curl -sL https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/insta
 
 **Step 2 - After reboot (post-install):**
 ```bash
-curl -sL https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/post-install.sh | sudo bash
 ```
 
 **Total time:** 30-60 minutes (depends on internet speed)
