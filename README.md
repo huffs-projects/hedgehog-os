@@ -403,7 +403,7 @@ topgrade
 - [Alacritty](https://github.com/alacritty/alacritty) - Terminal emulator
 
 ### License
-MIT License - [LICENSE](LICENSE.md)
+MIT License - see project repository for details
 
 
 ---
