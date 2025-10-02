@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?logo=arch-linux)](https://archlinux.org/)
-[![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/YOUR_USERNAME/hedgehog-os)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/huffs-projects/hedgehog-os)
 
 ---
 
@@ -141,7 +141,7 @@ If you prefer manual installation:
 
 1. **Download config:**
    ```bash
-   curl -O https://raw.githubusercontent.com/YOUR_USERNAME/hedgehog-os/main/archinstall-config.json
+   curl -O https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/archinstall-config.json
    ```
 
 2. **Run archinstall:**
@@ -151,7 +151,7 @@ If you prefer manual installation:
 
 3. **After reboot, run post-install:**
    ```bash
-   curl -O https://raw.githubusercontent.com/YOUR_USERNAME/hedgehog-os/main/post-install.sh
+   curl -O https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/post-install.sh
    sudo bash post-install.sh
    ```
 
