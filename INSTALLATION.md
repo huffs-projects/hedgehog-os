@@ -1,32 +1,6 @@
 # Hedgehog OS - Installation Guide
 
 Complete installation instructions with quick start and detailed options.
-
----
-
-## Quick Start (Recommended)
-
-### Two-Command Installation via GitHub
-
-**Fastest method - No file downloads needed!**
-
-**Step 1 - From Arch ISO (base install):**
-```bash
-curl -sL https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/install.sh | bash
-```
-
-**Step 2 - After reboot (post-install):**
-```bash
-curl -sL https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/post-install.sh | sudo bash
-```
-
-**Total time:** 30-60 minutes (depends on internet speed)
-
-**Requirements:**
-- Arch Linux ISO booted
-- Internet connection
-- GitHub repo set up (see [GITHUB-SETUP.md](GITHUB-SETUP.md))
-
 ---
 
 ## Prerequisites
@@ -92,7 +66,7 @@ The installer will prompt to reboot. Remove USB and login.
 
 ### Step 5: Run Post-Install
 ```bash
-curl -sL https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/post-install.sh | sudo bash
 ```
 
 **What happens:**
