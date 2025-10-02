@@ -122,8 +122,6 @@ base16_ocean       # Ocean theme
 ## Documentation
 
 - [INSTALLATION.md](INSTALLATION.md) - Detailed installation guide
-- [GITHUB-SETUP.md](GITHUB-SETUP.md) - How to deploy from GitHub
-- [DEPLOY-NOW.md](DEPLOY-NOW.md) - Quick start guide
 
 ---
 
@@ -397,6 +395,8 @@ topgrade
 ---
 
 ## Credits & License
+This project is licensed under the MIT License
+[LICENSE](LICENSE.md)
 
 ### Built With
 - [Archinstall](https://github.com/archlinux/archinstall) - Official Arch installer
