@@ -395,8 +395,6 @@ topgrade
 ---
 
 ## Credits & License
-This project is licensed under the MIT License
-[LICENSE](LICENSE.md)
 
 ### Built With
 - [Archinstall](https://github.com/archlinux/archinstall) - Official Arch installer
@@ -405,7 +403,7 @@ This project is licensed under the MIT License
 - [Alacritty](https://github.com/alacritty/alacritty) - Terminal emulator
 
 ### License
-MIT License - See project repository for details
+MIT License - [LICENSE](LICENSE.md)
 
 
 ---
