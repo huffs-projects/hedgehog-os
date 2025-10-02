@@ -1,6 +1,6 @@
 #  Hedgehog OS
 
-**A complete command-line only Arch Linux distribution with 90+ TUI applications**
+**A complete command-line only Arch Linux distribution with 92+ TUI applications**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?logo=arch-linux)](https://archlinux.org/)
