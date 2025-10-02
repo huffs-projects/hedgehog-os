@@ -12,12 +12,12 @@
 
 ### From Arch ISO (fresh install):
 ```bash
-curl -sL https://raw.githubusercontent.com/YOUR_USERNAME/hedgehog-os/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/install.sh | bash
 ```
 
 ### After reboot (post-install):
 ```bash
-curl -sL https://raw.githubusercontent.com/YOUR_USERNAME/hedgehog-os/main/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/huffs-projects/hedgehog-os/main/install.sh | sudo bash
 ```
 
 **That's it. Two commands. Complete system.**
