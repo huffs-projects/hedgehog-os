@@ -1,25 +1,27 @@
-# planigale-os
+# PlanigaleOS
+
 ```
-██████  ██       █████  ███    ██ ██  ██████   █████  ██      ███████     ⣿⡿⢟⣋⠉⠤⢄⣉⣉⣉⡉⣩⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-██   ██ ██      ██   ██ ████   ██ ██ ██       ██   ██ ██      ██          ⡏⢠⣤⣴⣾⣿⣿⣿⣿⣿⣿⡿⠿⠿⠟⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-███████ ██      ███████ ██ ██  ██ ██ ██   ███ ███████ ██      █████       ⡇⠚⣛⡻⠿⣿⣿⣿⣿⣿⠟⣠⣤⣿⣿⣿⣿⣶⣌⡛⠿⠿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⣿
-██      ██      ██   ██ ██  ██ ██ ██ ██    ██ ██   ██ ██      ██          ⣿⣷⣤⣬⣝⠪⣝⡻⠏⣡⣾⣿⣿⣿⣿⡿⣿⣿⣿⡅⠄⠔⣶⣤⣾⢘⣿⣿⣿⣿⣿⣿⣿
-██      ███████ ██   ██ ██   ████ ██  ██████  ██   ██ ███████ ███████     ⣿⣿⣿⣿⣿⣿⣶⣭⣝⡛⠿⣿⣿⣿⣿⡇⣸⢿⣿⣢⣴⣿⠛⢿⣿⣌⣻⡿⣿⡿⣿⣿⣿
-                                                                  ⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠰⣩⡛⠛⣛⠰⠁⣼⣿⡟⠻⢿⣦⣴⣿⣿⣦⣑⠢⣾⣿⣿⣿
-██████  ███████                                                           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣙⠛⠻⢿⣷⣮⣟⡟⠨⣔⣮⣭⣩⣴⣤⢰⢴⣾⣿⣿⣿
-██    ██ ██                                                               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣴⣿⣿⣿⣿⣦⡙⠻⢿⣿⣿⣿⣾⣷⣿⣿⣿⣿
-██    ██ ███████                                                          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
-██    ██      ██                                                   
- ██████  ███████                                                   
+██████  ██       █████  ███    ██ ██  ██████   █████  ██      ███████
+██   ██ ██      ██   ██ ████   ██ ██ ██       ██   ██ ██      ██
+███████ ██      ███████ ██ ██  ██ ██ ██   ███ ███████ ██      █████
+██      ██      ██   ██ ██  ██ ██ ██ ██    ██ ██   ██ ██      ██
+██      ███████ ██   ██ ██   ████ ██  ██████  ██   ██ ███████ ███████
+
+██████  ███████
+██    ██ ██
+██    ██ ███████
+██    ██      ██
+ ██████  ███████
 
 ┌─────────────────────────────────────────────────────────┐
 │  A Complete Terminal-Only TUI Workstation Distro        │
 │  83+ Packages • 30+ TUI Apps • Custom Config • Zero GUI │
 └─────────────────────────────────────────────────────────┘
 ```
-**TUI only distro**
 
-PlanigaleOS is a lightweight Linux distribution optimized for people who can't be trusted with real computers or a desktop enviroment.
+**TUI only distro for Raspberry Pi 3 A+**
+
+PlanigaleOS is a lightweight Linux distribution optimized for people who can't be trusted with real computers or a desktop environment.
 
 ## Features
 
@@ -65,6 +67,7 @@ PlanigaleOS is a lightweight Linux distribution optimized for people who can't b
 
 - **Storage**: 8GB+ SD card
 - **Build System**: Linux with build dependencies
+- **Target**: Raspberry Pi 3 A+
 
 ## Themes
 - **Dark**: Dark backgrounds with bright accents (default)
@@ -73,9 +76,14 @@ PlanigaleOS is a lightweight Linux distribution optimized for people who can't b
 - **Retro**: Classic green terminal aesthetic
 - **Custom**: User-defined themes
 
+## Quick Start
+
+1. Clone this repository
+2. Run `./build.sh` to create the distro image
+3. Flash the generated image to an SD card
+4. Boot your Raspberry Pi 3 A+
+
+
 ## Contributing
-Fork the repository. I will not be approving requests on ts.
 
-## License
-
-You can use whatever you want, I don't care (my code sucks(you don't want it))
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
