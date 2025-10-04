@@ -25,7 +25,7 @@ PlanigaleOS is a lightweight Linux distribution optimized for people who can't b
 
 ### Core Tools
 - **Text Editors**: vim, nano, micro
-- **File Management**: yazi (modern TUI file manager)
+- **File Management**: yazi
 - **Terminal**: tmux, screen for session management
 - **Theming**: Comprehensive theme system with 4 built-in themes
 
