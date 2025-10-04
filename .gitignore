@@ -1,0 +1,129 @@
+# PlanigaleOS Git Ignore File
+# Essential exclusions for TUI-only Linux distribution
+
+# Build artifacts
+build/
+output/
+*.img
+*.iso
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.pid
+*.lock
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Package files
+*.deb
+*.rpm
+*.tar.gz
+*.tar.bz2
+*.zip
+
+# Configuration backups
+config-backup.tar.gz
+*.conf.bak
+
+# Test files
+test-results/
+coverage/
+*.test
+
+# Documentation builds
+docs/_build/
+docs/build/
+
+# Python (if any Python tools are used)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Node.js (if any Node.js tools are used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# C/C++ build artifacts (if any C tools are built)
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Make
+Makefile
+*.make
+*.mk
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# Virtualization files (for testing)
+*.qcow2
+*.qcow
+*.qed
+*.raw
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.vpc
+
+# Docker (if containerized testing is used)
+.dockerignore
+Dockerfile
+docker-compose.yml
+docker-compose.yaml
+
+# Vagrant (if VM testing is used)
+.vagrant/
+Vagrantfile
+
+# VirtualBox
+*.vbox
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+
+# VMware
+*.vmx
+*.vmxf
+*.vmdk
+*.vmsd
+*.vmsn
+*.vmss
+*.nvram
