@@ -21,7 +21,8 @@
 FrogOS is a lightweight NixOS configuration optimized for people who can't be trusted with real computers or a desktop environment.
 
 ## Features
-
+### Terminal Renderer
+- yaft
 ### Core Tools
 - **Text Editors**: vim, nano, micro
 - **File Management**: yazi
