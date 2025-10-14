@@ -19,7 +19,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-**TUI only distro for Raspberry Pi 3 A+**
+**A NixOS Configuration designed for CM4 Lite (2GB RAM)**
 
 PlanigaleOS is a lightweight Linux distribution optimized for people who can't be trusted with real computers or a desktop environment.
 
