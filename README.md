@@ -18,7 +18,7 @@
 
 **A NixOS Configuration designed for CM4 Lite (2GB RAM)**
 
-PlanigaleOS is a lightweight Linux distribution optimized for people who can't be trusted with real computers or a desktop environment.
+FrogOS is a lightweight NixOS configuration optimized for people who can't be trusted with real computers or a desktop environment.
 
 ## Features
 
